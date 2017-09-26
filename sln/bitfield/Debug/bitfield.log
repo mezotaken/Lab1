@@ -1,0 +1,7 @@
+﻿  set.cpp
+d:\misc\учеба\labsprogs\4\src\set.cpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  bitfield.cpp
+d:\misc\учеба\labsprogs\4\src\bitfield.cpp(101): warning C4018: '<': signed/unsigned mismatch
+d:\misc\учеба\labsprogs\4\src\bitfield.cpp(151): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  bitfield.vcxproj -> D:\Misc\Учеба\LabsProgs\4\sln\Debug\bitfield.lib
